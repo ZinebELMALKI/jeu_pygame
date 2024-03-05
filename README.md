@@ -1,2 +1,2 @@
 # pygame
-utilisation de la bibliothèque Pygame et la réalisation d'un jeu
+utilisation de la bibliothèque Pygame (python) et la réalisation d'un jeu
